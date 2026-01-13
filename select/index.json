@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "poole",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2026-01-13T23:17:39.514917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Poole Crescent",
+      "artist": "Lost Outrider feat. Jordan Samuel",
+      "has_synced": true,
+      "path": "select/01_Poole_Crescent_Lost_Outrider_feat._Jordan_Samuel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Poole Crescent (feat. Jordan Samuel)",
+      "artist": "Lost Outrider Jordan Samuel",
+      "has_synced": true,
+      "path": "select/02_Poole_Crescent_(feat._Jordan_Samuel)_Lost_Outrider_Jordan_Samuel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wild Motion (feat. Dougie Poole)",
+      "artist": "Drugdealer",
+      "has_synced": false,
+      "path": "select/03_Wild_Motion_(feat._Dougie_Poole)_Drugdealer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life (feat. Taylor Poole)",
+      "artist": "William McDowell",
+      "has_synced": true,
+      "path": "select/04_Life_(feat._Taylor_Poole)_William_McDowell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When You Walk Into the Room (feat. Taylor Poole & Trinity Anderson)",
+      "artist": "William McDowell",
+      "has_synced": true,
+      "path": "select/05_When_You_Walk_Into_the_Room_(feat._Taylor_Poole_&_Trinity_Anderson)_William_McDowell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Respond (feat. D'Nar Young, Taylor Poole, Trinity Anderson)",
+      "artist": "Travis Greene",
+      "has_synced": true,
+      "path": "select/06_Respond_(feat._D'Nar_Young,_Taylor_Poole,_Trinity_Anderson)_Travis_Greene.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Päikese Poole",
+      "artist": "Urban Symphony",
+      "has_synced": true,
+      "path": "select/07_Päikese_Poole_Urban_Symphony.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seitsme tuule poole",
+      "artist": "Karl-Erik Taukar",
+      "has_synced": false,
+      "path": "select/08_Seitsme_tuule_poole_Karl-Erik_Taukar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Straight to Video (Bro Peezy A.K.A. Greg Poole Video Struggle mix)",
+      "artist": "Mindless Self Indulgence",
+      "has_synced": false,
+      "path": "select/09_Straight_to_Video_(Bro_Peezy_A.K.A._Greg_Poole_Video_Struggle_mix)_Mindless_Self_Indulgence.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Straight to Video (Bro Peezy AKA Greg Poole Remix)",
+      "artist": "Mindless Self Indulgence",
+      "has_synced": false,
+      "path": "select/10_Straight_to_Video_(Bro_Peezy_AKA_Greg_Poole_Remix)_Mindless_Self_Indulgence.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Borderline (Radio Edit) (feat. Shelly Poole)",
+      "artist": "Michael Gray",
+      "has_synced": true,
+      "path": "select/11_Borderline_(Radio_Edit)_(feat._Shelly_Poole)_Michael_Gray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bro Peezy AKA Greg Poole",
+      "artist": "Mindless Self Indulgence",
+      "has_synced": false,
+      "path": "select/12_Bro_Peezy_AKA_Greg_Poole_Mindless_Self_Indulgence.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Borderline (Feat. Shelly Poole)",
+      "artist": "Michael Gray",
+      "has_synced": true,
+      "path": "select/13_Borderline_(Feat._Shelly_Poole)_Michael_Gray.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kodu poole, kulla poole",
+      "artist": "Nagy Bögö",
+      "has_synced": true,
+      "path": "select/14_Kodu_poole,_kulla_poole_Nagy_Bögö.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seitsme tuule poole",
+      "artist": "Karl-Erik Taukar",
+      "has_synced": true,
+      "path": "select/15_Seitsme_tuule_poole_Karl-Erik_Taukar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Poole",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/16_Poole_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Vadina Poole",
+      "artist": "Ghantasala, P. Susheela",
+      "has_synced": true,
+      "path": "select/17_Vadina_Poole_Ghantasala,_P._Susheela.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Vadina Poole - Duet",
+      "artist": "V. Ramakrishna, P. Susheela",
+      "has_synced": false,
+      "path": "select/18_Vadina_Poole_-_Duet_V._Ramakrishna,_P._Susheela.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "poole",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/19_poole_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Poole Crescent",
+      "artist": "Lost Outrider",
+      "has_synced": true,
+      "path": "select/20_Poole_Crescent_Lost_Outrider.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "poole",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_poole_マカロニえんぴつ.txt"
+    }
+  ]
+}
